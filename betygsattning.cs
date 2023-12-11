@@ -1,6 +1,5 @@
 
-/// I tried to write the program with minimum instructions as well as 
-/// to maintain good readability.
+/// I tried to write the program with minimum instructions and good readability.
 
 /// Suggestion:
 Console.Write($"A-poäng: ");
