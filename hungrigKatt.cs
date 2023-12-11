@@ -12,11 +12,11 @@ string[,] house = {
 /// You can also create the same structure using the following code. All the other places in the
 /// array are automatically assigned en empty-string
 /// 
-/// string[,] hus = new string[5,6];
-/// hus[0, 1] = "mat";
-/// hus[1, 3] = "mat";
-/// hus[3, 1] = "mat";
-/// hus[4, 2] = "mat";
+/// string[,] house = new string[5,6];
+/// house[0, 1] = "food";
+/// house[1, 3] = "food";
+/// house[3, 1] = "food";
+/// house[4, 2] = "food";
 /// 
 
 Console.Write($"Rum1-x: ");
